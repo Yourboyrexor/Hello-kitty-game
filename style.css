@@ -29,7 +29,7 @@ h1 {
   left: 50px;
   width: 80px;
   height: 80px;
-  background-image: url('https://example.com/hello-kitty.png'); /* Replace with your Hello Kitty image URL */
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdUtwYzns-PbDDrUHZpLwRPEKnyUPogy6bMw&usqp=CAU'); /* Updated Hello Kitty image URL */
   background-size: cover;
   transition: bottom 0.3s;
 }
