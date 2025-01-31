@@ -12,6 +12,7 @@ body {
 
 h1 {
   color: #ff4f89;
+  margin-top: 20px;
 }
 
 #gameArea {
@@ -29,8 +30,9 @@ h1 {
   left: 50px;
   width: 80px;
   height: 80px;
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdUtwYzns-PbDDrUHZpLwRPEKnyUPogy6bMw&usqp=CAU'); /* Updated Hello Kitty image URL */
-  background-size: cover;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/26/Hello_Kitty_Character_Icon.png');
+  background-size: contain; /* Ensures the image fits within the div */
+  background-repeat: no-repeat;
   transition: bottom 0.3s;
 }
 
@@ -54,6 +56,7 @@ h1 {
 #score {
   font-size: 24px;
   color: #ff4f89;
+  margin-top: 10px;
 }
 
 #startBtn {
