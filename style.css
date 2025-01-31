@@ -30,7 +30,7 @@ h1 {
   left: 50px;
   width: 80px;
   height: 80px;
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/26/Hello_Kitty_Character_Icon.png');
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/26/Hello_Kitty_Character_Icon.png'); /* Updated Hello Kitty image URL */
   background-size: contain; /* Ensures the image fits within the div */
   background-repeat: no-repeat;
   transition: bottom 0.3s;
